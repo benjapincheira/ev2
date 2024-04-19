@@ -1,0 +1,6 @@
+#fondo {
+    background-color: rgba(255,0,0);
+    opacity: 1.0;
+    background-image: url('imagenes/image.jpg');
+    height: 600px;
+}
